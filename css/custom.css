@@ -46,10 +46,17 @@
       width:100%;  
 }
 
-.slides h1, h2, h3, footer, ul, p {
+.slides h1, h2, h3, footer, p {
+  background: rgba(255, 255, 255, 0.25);
+  color:#727272;
+  padding: 10px !important;
+}
+
+.slides ul {
 	background: rgba(255, 255, 255, 0.25);
   color:#727272;
-	padding: 10px !important;
+  padding-left: 40px !important;
+	padding-right: 40px !important;
 }
 
 .reveal section img {
