@@ -1,3 +1,3 @@
-# Chairman's Welcome Speech for FOSS4GUK 2016
+# Climate Change in Morecambe Bay
 
-See [archaeogeek.github.io/foss4guk2016welcome](http://archaeogeek.github.io/foss4guk2016welcome) for the live version of this
+See [archaeogeek.github.io/morecambebay_climatechange_2016](http://archaeogeek.github.io/morecambebay_climatechange_2016) for the live version of this
